@@ -21,11 +21,32 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181109035410.1" a="E"><vh>Week1</vh>
+<v t="leo.20181109035410.2"><vh>Week1</vh></v>
+</v>
+<v t="leo.20181109035527.1" a="E"><vh>Week2</vh>
+<v t="leo.20181109035527.2"><vh>Week2</vh></v>
+</v>
+<v t="leo.20181109035532.1" a="E"><vh>Week3</vh>
+<v t="leo.20181109035532.2"><vh>Week3</vh></v>
+</v>
+<v t="leo.20181109035535.1" a="E"><vh>Week4</vh>
+<v t="leo.20181109035535.2"><vh>Week4</vh></v>
+</v>
+<v t="leo.20181109035538.1" a="E"><vh>Week5</vh>
+<v t="leo.20181109035538.2"><vh>Week5</vh></v>
+</v>
+<v t="leo.20181109035539.1" a="E"><vh>Week6</vh>
+<v t="leo.20181109035539.2"><vh>Week6</vh></v>
+</v>
+<v t="leo.20181109035543.1"><vh>Week7</vh>
+<v t="leo.20181109035543.2"><vh>Week7</vh></v>
+</v>
+<v t="leo.20181109035358.1"><vh>快捷鍵</vh>
+<v t="leo.20181109035358.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -129,30 +150,11 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623144林昭權](https://github.com/mdecadp2018/site-40623144)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[40623144網誌](./../blog/index.html)
 
-
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -325,6 +327,136 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181109035358.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035358.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20181109035410.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035410.2"># Week1
+
+* 準備隨身碟，耳機，筆記本
+*將P37下載至隨身碟
+*登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業
+
+</t>
+<t tx="leo.20181109035527.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035527.2"># Week2
+
+* 學習如何切換分支
+*方法一: git checkout gh-pages  &gt;  git branch 
+*方法二:在自己的倉儲按setting &gt; Branches將setting 改為Branches後儲存
+
+</t>
+<t tx="leo.20181109035532.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035532.2"># Week3
+
+* 學習Onshape 並將操作過程拍攝成影片並推送到個人的Youtube 帳號下.
+
+</t>
+<t tx="leo.20181109035535.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035535.2"># Week4
+
+* 學習Onshape操作
+*開啟SciTE&gt;http-server.py&gt;開啟近端
+*打開 Leo&gt;config&gt;pelican.leo編輯管理部落格
+*打開 Leo&gt;config&gt;reveal.leo 編輯管理投影片
+</t>
+<t tx="leo.20181109035538.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035538.2"># Week5
+
+* Onshapeweek1課程到Onshapeweek2的教學
+*記下不會的英文單字
+</t>
+<t tx="leo.20181109035539.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035539.2"># Week6
+
+* 說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排.
+
+</t>
+<t tx="leo.20181109035543.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035543.2"># Week7
+
+* IPv4:
+*140.130.17.3 
+*140.130.1.2
+*IPv6:
+*系上:2001:288:6004:17::3 
+*學校:2001:288:6004:1::2 
+*hinet:2001:b000:168::1 
+
+
 </t>
 </tnodes>
 </leo_file>
